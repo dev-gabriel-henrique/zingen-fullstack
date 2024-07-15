@@ -11,7 +11,7 @@ Site feito em conjunto com as aulas de responsividade da Rocketseat
 </p>
 
 <p align="center">
-<img alt="projeto invite" src="./github/Desktop.png.png" width="100%">
+<img alt="projeto invite" src="./github/Desktop.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
